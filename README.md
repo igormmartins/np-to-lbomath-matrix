@@ -1,7 +1,7 @@
 # np-to-lbomath-matrix
 
-Esta função transforma uma matriz do Python Numpy em uma matriz compreensível pelo LibreOffice Math, saída em string. Suporta a troca do separador de decimais.
-Somente funciona com matrizes do Numpy como entrada.
+Estas funções transformam uma matriz do Python Numpy em uma matriz compreensível pelo LibreOffice Math, com suporte para a troca do separador de decimais; e convertem números complexos cartesianos em fasores, podendo se usada para salvar na matriz compatibilizada. Saídas em strings.
+Funciona com matrizes do Numpy como entrada.
 
-This function transforms a Python Numpy matrix in one understandable by the LibreOffice Math, outputs a string. Whith changing decimals separator support.
-Only works whit a Numpy matrix as input.
+This functions transforms a Python Numpy matrix in one understandable by the LibreOffice Math, whith changing decimals separator support; and convert complex cartesian numbers into phasors, beeing possible to save in the compatible matrix. Outputs a string.
+Works whit a Numpy matrix as input.
